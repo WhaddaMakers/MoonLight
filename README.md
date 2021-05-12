@@ -9,3 +9,19 @@ This project is a remake of the original moonlamp made by ..... All info can be 
 We've just added the Whaddy logo with Meshmixer (a 3D model program) so that it looks like Whaddy shadows on the moon. And made a sharp looking pedestal for it.
 The Moonlamp can be powered with any decent (in our case) 24VDC power supply. It is lit up with a normal white 24V led strip, but you can choose any you prefer...
 The brightness is adjustable with a potentiometer, and we've also built in handy power jack3
+
+## MATERIAL
+
+### Ingredients:
+
+* 1x 3D Printed Moon lamp
+* 1x 3D printed LED holder
+* 3X Side plate
+* 1x Back plate
+* 1x Cross plate1
+* 1x Cross plate2
+* 1x Base plate
+* 10cm of 24VDC LED strip (or any LED stip you prefer) 
+* 24VDC power supply (make sure to use the rigt power according to your LED strip)
+* 1x DC jack (optional)
+* 1x potentiometer (optional)
