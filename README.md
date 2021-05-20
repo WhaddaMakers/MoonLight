@@ -42,8 +42,8 @@ The brightness is adjustable with a potentiometer, and we've also built in handy
 As mentioned before, all info on the original moonlamp can be found here https://www.instructables.com/High-Detailed-Moon-Lamp/ 
 
 The STL files can be downloaded here:
-- [Whaddy Moon Lamp.stl](https://github.com/WhaddaMakers/MoonLight/blob/main/)
-- [Led holder.stl](https://vellemannv-my.sharepoint.com/:u:/g/personal/nl_velleman_eu/EXgCJCqtD_RAr7959jyvImQBmb11U-QMWAOz8YXYz5xswQ?e=Y641Qv/)
+- [Whaddy Moon Lamp.stl](https://vellemannv-my.sharepoint.com/:u:/g/personal/nl_velleman_eu/EXgCJCqtD_RAr7959jyvImQBmb11U-QMWAOz8YXYz5xswQ?e=Y641Qv)
+- [Led holder.stl](https://github.com/WhaddaMakers/MoonLight/blob/main/LEDholder.stl)
 
 
 **When importiing the file in your slicer, moon about 8-10mm down. Ths way we wil have a hole at the bottom for us tos put the leds in...**
