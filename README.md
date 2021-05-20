@@ -5,7 +5,7 @@ A 3D printed MOON LAMP with the with a customizable stand for it! Find out how w
 ## Project description
 
 ### What can this project do?
-This project is a remake of the original moonlamp made by ..... .
+This project is a remake of the original moonlamp can you find here:https://www.instructables.com/High-Detailed-Moon-Lamp/ .
 We've added the Whaddy logo with Meshmixer (a 3D model program) so that it looks like a Whaddy shadow on the moon, And made a sharp looking stand for it for it.
 The Moonlamp can be powered with any decent (in our case) 24VDC power supply. It is lit up with a normal white 24V led strip, but you can choose any you prefer...
 The brightness is adjustable with a potentiometer, and we've also built in handy power jack3
@@ -42,23 +42,27 @@ The brightness is adjustable with a potentiometer, and we've also built in handy
 As mentioned before, all info on the original moonlamp can be found here https://www.instructables.com/High-Detailed-Moon-Lamp/ 
 
 The STL files can be downloaded here:
-- Whaddy Moon Lamp
-- Led holder
-- Stand print files
+- [Whaddy Moon Lamp.stl](https://github.com/WhaddaMakers/MoonLight/blob/main/)
+- [Led holder.stl](https://github.com/WhaddaMakers/MoonLight/blob/main/)
+
+
+**When importiing the file in your slicer, moon about 8-10mm down. Ths way we wil have a hole at the bottom for us tos put the leds in...**
+![Cura1](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/Cura1.PNG)
+![Cura2](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/Cura2.PNG)
 
 ### Printing the template for the stand
 
 We have made the pedestral out of PCB material on our PCB milling machine. But you can make it out of Cardboard, 3D print it or make it with whatever you want :)
 Below thee template that you can download and print out to use it yourself!
 
-
+![Template](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/Template.jpg)
 
 ### Prepping the connections
 
 An connection sheme can be found below, we've added an potentiomer to adjust the brightness and build in an DC plug to power the moonlamp.
 You can also connect the your ledstip directly to a power supply, but then cant adjust the brightnes and its not very handy...
 
-
+![CS](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/CS.jpg)
 
 ## Making the Moonlamp
 
