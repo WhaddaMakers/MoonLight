@@ -53,9 +53,9 @@ The STL files can be downloaded here:
 ### Printing the template for the stand
 
 We have made the pedestral out of PCB material on our PCB milling machine. But you can make it out of Cardboard, 3D print it or make it with whatever you want :)
-Below thee template that you can download and print out to use it yourself!
+Below thee template that you can [download](https://github.com/WhaddaMakers/MoonLight/blob/main/Template.pdf) and print out to use it yourself!
 
-![Template](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/Template.jpg)
+![Template](https://github.com/WhaddaMakers/MoonLight/blob/main/Template.pdf)
 
 ### Prepping the connections
 
