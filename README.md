@@ -2,7 +2,7 @@
 
 ![18b](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/18b.jpg)
 
-A 3D printed MOON LAMP with the with a customizable stand for it! Find out how we made it below!
+A 3D printed MOON LAMP with the with a customised stand! Find out how we made it below!
 
 ## Project description
 
@@ -48,7 +48,7 @@ The STL files can be downloaded here:
 - [Led holder.stl](https://github.com/WhaddaMakers/MoonLight/blob/main/LEDholder.stl)
 
 
-**When importiing the file in your slicer, moon about 8-10mm down. Ths way we wil have a hole at the bottom for us tos put the leds in...**
+**When importiing the file in your slicer, move the moon about 8-10mm down. Ths way we wil have a hole at the bottom for us to put the leds in...**
 ![Cura1](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/Cura1.PNG)
 ![Cura2](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/Cura2.PNG)
 
