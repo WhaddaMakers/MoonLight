@@ -1,6 +1,6 @@
 # MoonLamp
 
-![18b](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/18b.jpg)
+![18b](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/IMG_7899.jpg)
 
 A 3D printed MOON LAMP with the with a customised stand! Find out how we made it below!
 
