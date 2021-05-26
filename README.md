@@ -68,7 +68,7 @@ You can also connect the your ledstip directly to a power supply, but then cant 
 
 ## Making the Moonlamp
 
-1. Take 'Cross plate 1' and 'Cross plate 2'.  
+1. Take 'Cross plate 1' and 'Cross plate 2'.
 ![1](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/1.jpg)
 
 Then slide them together, like in the picture below
