@@ -1,6 +1,6 @@
 # MoonLamp
 ![1](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/IMG_7904.jpg)
-![18b](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/IMG_7899.jpg)
+
 
 A 3D printed MOON LAMP with the with a customised stand! Find out how we made it below!
 
@@ -130,4 +130,5 @@ Stick the Ledstrip onto the holder like in the picture below. Make sure the powe
 18.Now place the mooon onto the stand and enjoy!!  
   ![18](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/18.jpg)
 ![18b](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/18b.jpg)
+![18b](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/IMG_7899.jpg)
 
