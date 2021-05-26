@@ -69,10 +69,9 @@ You can also connect the your ledstip directly to a power supply, but then cant 
 ## Making the Moonlamp
 
 1. Take 'Cross plate 1' and 'Cross plate 2'.
-![1](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/1.jpg)
-
-Then slide them together, like in the picture below
-  ![1b](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/1b.jpg)
+![1](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/1.jpg)  
+1.Then slide them together, like in the picture below
+![1b](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/1b.jpg)
 
 2. Take the 'Base plate' and fix it to the cross we just made. there are slots in the baseplate, align them with the protrusions of the Cross plates anthe push them together  
 ![2](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/2.jpg)
