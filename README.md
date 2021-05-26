@@ -72,7 +72,7 @@ You can also connect the your ledstip directly to a power supply, but then cant 
 ![1](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/1.jpg)
 
 Then slide them together, like in the picture below  
-  ![1b](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/1b.jpg)
+![1b](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/1b.jpg)
 
 2. Take the 'Base plate' and fix it to the cross we just made. there are slots in the baseplate, align them with the protrusions of the Cross plates anthe push them together  
 ![2](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/2.jpg)
@@ -97,7 +97,7 @@ Then slide them together, like in the picture below
 ![8](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/8.jpg) 
 
 Stick the Ledstrip onto the holder like in the picture below. Make sure the power wires are in the cut out of the holder!  
-  ![8b](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/8b.jpg)
+![8b](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/8b.jpg)
 
 9. Guide the wires trough the hole in the baseplate.  
 ![9](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/9.jpg)
