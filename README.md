@@ -128,7 +128,6 @@ Stick the Ledstrip onto the holder like in the picture below. Make sure the powe
 ![17](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/17.jpg)
 
 18.Now place the mooon onto the stand and enjoy!!  
-  ![18](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/18.jpg)
 ![18b](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/18b.jpg)
 ![18b](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/IMG_7899.jpg)
 
