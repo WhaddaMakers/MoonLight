@@ -2,13 +2,13 @@
 ![1](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/IMG_7904.jpg)
 
 
-A 3D printed MOON LAMP with the with a customised stand! Find out how we made it below!
+A 3D printed MOON LAMP with a customised stand! Find out how we made it below!
 
 ## Project description
 
 ### What can this project do?
 This project is a remake of the original moonlamp can you find here:https://www.instructables.com/High-Detailed-Moon-Lamp/ .  
-We've added the Whaddy logo with Meshmixer (a 3D model program) so that it looks like a Whaddy shadow on the moon, And made a sharp looking stand for it for it.
+We've added the Whaddy logo with Meshmixer (a 3D model program) so that it looks like a Whaddy shadow on the moon. We also made a sharp looking stand for it for it.
 The Moonlamp can be powered with any decent (in our case) 24VDC power supply. It is lit up with a normal white 24V led strip, but you can choose any you prefer...
 The brightness is adjustable with a potentiometer, and we've also built in handy power jack3
 
