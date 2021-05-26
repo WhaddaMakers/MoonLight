@@ -94,9 +94,8 @@ You can also connect the your ledstip directly to a power supply, but then cant 
 
 8. Now take the 3D printed LED strp holder and a piece of ledstrip.   
 ![8](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/8.jpg) 
-
-Stick the Ledstrip onto the holder like in the picture below. Make sure the power wires are in the cut out of the holder!
-  ![8b](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/8b.jpg)
+8.Stick the Ledstrip onto the holder like in the picture below. Make sure the power wires are in the cut out of the holder!
+![8b](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/8b.jpg)
 
 9. Guide the wires trough the hole in the baseplate.  
 ![9](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/9.jpg)
