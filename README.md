@@ -2,15 +2,15 @@
 ![1](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/IMG_7904.jpg)
 
 
-A 3D printed MOON LAMP with a customised stand! Find out how we made it below!
+We're making a 3D printed moon lamp with a customised stand! Find out how we made it and how you can too!
 
 ## Project description
 
 ### What can this project do?
-This project is a remake of the original moonlamp can you find here:https://www.instructables.com/High-Detailed-Moon-Lamp/ .  
-We've added the Whaddy logo with Meshmixer (a 3D model program) so that it looks like a Whaddy shadow on the moon. We also made a sharp looking stand for it for it.
-The Moonlamp can be powered with any decent (in our case) 24VDC power supply. It is lit up with a normal white 24V led strip, but you can choose any you prefer...
-The brightness is adjustable with a potentiometer, and we've also built in handy power jack3
+This project is a remake of the original moonlamp which you can find here:https://www.instructables.com/High-Detailed-Moon-Lamp/ .  
+We've added Whadda's mascot Whaddy with Meshmixer (a 3D model program) so that it looks like a Whaddy shadow on the moon. We also made a sharp looking stand for it.
+The Moonlamp can be powered with any decent power supply. In our case it was a 24VDC and a normal white 24V led strip.
+The brightness is adjustable with a potentiometer, and we also built in a handy power jack.
 
 ## Material
 
@@ -18,27 +18,27 @@ The brightness is adjustable with a potentiometer, and we've also built in handy
 
 ### Ingredients:
 
-* 1x 3D Printed Moon lamp
+* 1x 3D printed moon lamp
 * 1x 3D printed LED holder
-* 3X Side plate
-* 1x Back plate
-* 1x Cross plate1
-* 1x Cross plate2
-* 1x Base plate
-* 10cm of 24VDC LED strip (or any LED stip you prefer) 
+* 3x side plate
+* 1x back plate
+* 1x cross plate1
+* 1x cross plate2
+* 1x base plate
+* 10cm of 24VDC LED strip (or any LED strip you prefer) 
 * 24VDC power supply (make sure to use the rigt power according to your LED strip)
 * 1x DC jack (optional)
 * 1x potentiometer 1-10K (optional)
 * soft electrical wires
-* Heat shrinks
+* heat shrinks
 
 ### Tools:
 
-* 3D Printer
-* Soldering Iron
-* Glue gun
+* 3D printer
+* soldering iron
+* glue gun
 
-## Prepping the buils
+## Prepping the build
 
 ### 3D printing the MOON and LED HOLDER
 As mentioned before, all info on the original moonlamp can be found here https://www.instructables.com/High-Detailed-Moon-Lamp/ 
@@ -48,32 +48,32 @@ The STL files can be downloaded here:
 - [Led holder.stl](https://github.com/WhaddaMakers/MoonLight/blob/main/LEDholder.stl)
 
 
-**When importiing the file in your slicer, move the moon about 8-10mm down. Ths way we wil have a hole at the bottom for us to put the leds in...**
+**When importiing the file in your slicer, move the moon about 8-10mm down. This way we will have a hole at the bottom for us to put the LEDs in...**
 ![Cura1](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/Cura1.PNG)
 ![Cura2](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/Cura2.PNG)
 
 ### Printing the template for the stand
 
-We have made the pedestral out of PCB material on our PCB milling machine. But you can make it out of Cardboard, 3D print it or make it with whatever you want :)
-Below thee template that you can [download](https://github.com/WhaddaMakers/MoonLight/blob/main/Template.pdf) and print out to use it yourself!
+We have made the pedestral out of PCB material on our PCB milling machine. But you can make it out of cardboard, 3D print it or make it with whatever you want :).
+Below is the template that you can [download](https://github.com/WhaddaMakers/MoonLight/blob/main/Template.pdf) and print out to use it yourself!
 
 ![Template](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/Template.JPG)
 
 ### Prepping the connections
 
-An connection sheme can be found below, we've added an potentiomer to adjust the brightness and build in an DC plug to power the moonlamp.
-You can also connect the your ledstip directly to a power supply, but then cant adjust the brightnes and its not very handy...
+The connection sheme can be found below, we've added a potentiomer to adjust the brightness and build in a DC plug to power the moon lamp.
+You can also connect your ledstip directly to a power supply, but in that case you can't adjust the brightnes and it's not very handy...
 
 ![CS](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/CS.jpg)
 
-## Making the Moonlamp
+## Making the moon lamp
 
 1. Take 'Cross plate 1' and 'Cross plate 2'.
   ![1](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/1.jpg)
-1b. Then slide them together, like in the picture below
+1b. Then slide them together, as shown in the picture below
 ![1b](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/1b.jpg)
 
-2. Take the 'Base plate' and fix it to the cross we just made. there are slots in the baseplate, align them with the protrusions of the Cross plates anthe push them together  
+2. Take the 'base plate' and fix it to the cross that we just made. There are slots in the baseplate, align them with the protrusions of the cross plates anthe push them together  
 ![2](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/2.jpg)
 
 3. Place a 'Side plate' to the assembly. There is a slot in the sideplate, push it on the protrusion of the 'Cross plates'. see picture below  
@@ -92,7 +92,7 @@ You can also connect the your ledstip directly to a power supply, but then cant 
 ![7](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/7.jpg)  
 ![7](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/7b.jpg)
 
-8. Now take the 3D printed LED strp holder and a piece of ledstrip.   
+8. Now take the 3D printed LED strip holder and a piece of ledstrip.   
 ![8](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/8.jpg) 
 8b.Stick the Ledstrip onto the holder like in the picture below. Make sure the power wires are in the cut out of the holder!
 ![8b](https://github.com/WhaddaMakers/MoonLight/blob/main/pictures/8b.jpg)
