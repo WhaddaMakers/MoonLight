@@ -26,7 +26,7 @@ The brightness is adjustable with a potentiometer, and we also built in a handy 
 * 1x cross plate2
 * 1x base plate
 * 10cm of 24VDC LED strip (or any LED strip you prefer) 
-* 24VDC power supply (make sure to use the rigt power according to your LED strip)
+* 24VDC power supply (make sure to use the right power according to your LED strip)
 * 1x DC jack (optional)
 * 1x potentiometer 1-10K (optional)
 * soft electrical wires
